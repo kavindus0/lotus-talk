@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218876149451",
+    "project_id": "lotus--talk",
+    "storage_bucket": "lotus--talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218876149451:android:6618390513b9424cc0a54e",
+        "android_client_info": {
+          "package_name": "com.github.kavindus0.lotustalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218876149451-e7m6oqpucirsrjjuuo1nf0u0pl5vgm8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEQih8Xv7G9T7zUYC5zKfjJv-YHKGpLLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218876149451-e7m6oqpucirsrjjuuo1nf0u0pl5vgm8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
